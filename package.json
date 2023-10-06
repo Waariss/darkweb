@@ -1,7 +1,7 @@
 {
-  "name": "static-site-host-shell",
+  "name": "senyai",
   "version": "1.0.0",
-  "description": "A simple server I can run in an EC2 instance that serves files deployed by scp",
+  "description": "A simple server ",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -9,15 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amygdaloideum/static-site-host-shell.git"
+    "url": "git+https://github.com/Waariss/darkweb.git"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/amygdaloideum/static-site-host-shell/issues"
-  },
-  "homepage": "https://github.com/amygdaloideum/static-site-host-shell#readme",
-  "dependencies": {
-    "serve-handler": "^6.0.1"
-  }
+  "license": "ISC"
 }
