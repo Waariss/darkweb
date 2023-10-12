@@ -1,7 +1,7 @@
 {
-  "name": "senyai",
+  "name": "static-site-host-shell",
   "version": "1.0.0",
-  "description": "A simple server ",
+  "description": "A simple server I can run in an EC2 instance that serves files deployed by scp",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -12,5 +12,8 @@
     "url": "git+https://github.com/Waariss/darkweb.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "serve-handler": "^6.0.1"
+  }
 }
