@@ -5,7 +5,7 @@ This repository contains resources and documentation related to a project that e
 
 ## Access the Website
 The website can be accessed using the Tor browser at the following .onion address: 
-[jozincmtlgnha4lpiqxvdi7nbvaicvbpi5kazzwfkzeuenh6fbtwltqd.onion](http://jozincmtlgnha4lpiqxvdi7nbvaicvbpi5kazzwfkzeuenh6fbtwltqd.onion)
+[jozincmtlgnha4lpiqxvdi7nbvaicvbpi5kazzwfkzeuenh6fbtwltqd.onion](http://myl3qbzzngac77vjiiqwfxbzbz7w2xcvcy5uxqvebs2x2traeublopid.onion)
 
 ## Project Details
 
