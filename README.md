@@ -1,5 +1,7 @@
 # Tor Network Website Hosting Project
 
+[![Senyai's World Accessibility](https://github.com/Waariss/darkweb/actions/workflows/main.yml/badge.svg)](https://github.com/Waariss/darkweb/actions/workflows/main.yml)
+
 ## Overview
 This repository contains resources and documentation related to a project that explores the fundamentals of hosting a website as a hidden service on the Tor network using Amazon Web Services (AWS) EC2. This simple website is accessible via a .onion domain through the Tor browser and serves as a practical exploration into basic web hosting, server management, and anonymous communication technologies.
 
