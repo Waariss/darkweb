@@ -1,0 +1,21 @@
+name: Senyai's World Accessibility
+
+on: [push]
+
+jobs:
+  check-onion-site:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install Tor
+      run: sudo apt-get install tor
+
+    - name: Start Tor
+      run: sudo service tor start
+
+    - name: Check .onion Website
+      run: |
+        curl --socks5-hostname localhost:9050 http://myl3qbzzngac77vjiiqwfxbzbz7w2xcvcy5uxqvebs2x2traeublopid.onion
